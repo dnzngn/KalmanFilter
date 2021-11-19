@@ -2,7 +2,7 @@
 
 This project was developed for the Technitute Course - Advanced Kalman Filtering and Sensor Fusion. Developed and produced by Dr. Steven Dumble.
 
-This course taken from UDEMY.
+This course was taken from UDEMY.
 
 
 ![AKFSF-Simulation](/AKFSF-Simulation.gif)
