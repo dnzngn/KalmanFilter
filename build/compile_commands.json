@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/main.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/main.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/main.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/display.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/display.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/display.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/beacons.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/beacons.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/beacons.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/sensors.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/sensors.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/sensors.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/simulation.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/simulation.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/simulation.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/utils.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/utils.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/utils.cpp"
+},
+{
+  "directory": "/home/isuzu/technitute/AKFSF-Simulation-CPP/build",
+  "command": "/bin/c++   -isystem /usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/AKFSFSimulation.dir/src/kalmanfilter.cpp.o -c /home/isuzu/technitute/AKFSF-Simulation-CPP/src/kalmanfilter.cpp",
+  "file": "/home/isuzu/technitute/AKFSF-Simulation-CPP/src/kalmanfilter.cpp"
+}
+]
